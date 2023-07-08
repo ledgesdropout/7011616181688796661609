@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424646088179",
+    "project_id": "game-viral-now",
+    "storage_bucket": "game-viral-now.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424646088179:android:661570f4a5ee1ebb862e86",
+        "android_client_info": {
+          "package_name": "com.mediatechnopro.gamepenguinadventure1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424646088179-m70pv30sujt378j3mpf508p19ncvapjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8u5HsgvYKImgnsD9oRL1s-SU_uMheazo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424646088179-m70pv30sujt378j3mpf508p19ncvapjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
